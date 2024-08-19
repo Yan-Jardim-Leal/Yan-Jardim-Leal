@@ -5,6 +5,7 @@
   > Java
   > C
   > Python
+
   Procuro sempre aprofundar meus conhecimentos, gosto de resolver problemas que nunca vi antes, estudar soluções ou até mesmo criar novas!
   
   Contato:
