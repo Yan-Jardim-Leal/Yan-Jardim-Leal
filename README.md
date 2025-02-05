@@ -6,6 +6,9 @@ Lua
 Java
 C
 Python
+Html
+Css
+SQL
 ```
   Procuro sempre aprofundar meus conhecimentos, gosto de resolver problemas que nunca vi antes, estudar soluções ou até mesmo criar novas!
   
