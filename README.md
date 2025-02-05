@@ -6,6 +6,7 @@ Lua
 Java
 C
 Python
+JavaScript
 Html
 Css
 SQL
