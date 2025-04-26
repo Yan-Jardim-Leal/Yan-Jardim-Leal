@@ -4,11 +4,12 @@
 ```
 Lua 
 Java
+JavaScript
 C
 Python
-JavaScript
-Html
-Css
+HTML
+PHP
+CSS
 SQL
 ```
   Procuro sempre aprofundar meus conhecimentos, gosto de resolver problemas que nunca vi antes, estudar soluções ou até mesmo criar novas!
