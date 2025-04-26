@@ -1,4 +1,4 @@
-  # Olá, me chamo Yan Jardim Leal.
+  # Olá, chamo-me Yan Jardim Leal.
 
   Gosto de programação no geral, não apenas de linguagens específicas, ando estudando:
 ```
