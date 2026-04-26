@@ -14,4 +14,4 @@ SQL
 ```
   Procuro sempre aprofundar meus conhecimentos, gosto de resolver problemas que nunca vi antes, estudar soluções ou até mesmo criar novas!
   
-  Contato e-mail: yanleal@alunos.utfpr.edu.br
+  Contato e-mail: yan2005leal@gmail.com
